@@ -1,0 +1,11 @@
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\bin\Debug\QueensUniversityStudents.exe.config
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\bin\Debug\QueensUniversityStudents.exe
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\bin\Debug\QueensUniversityStudents.pdb
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\obj\Debug\QueensUniversityStudents.csprojResolveAssemblyReference.cache
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\obj\Debug\QueensUniversityStudents.Properties.Resources.resources
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\obj\Debug\QueensUniversityStudents.Students.resources
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\obj\Debug\QueensUniversityStudents.csproj.GenerateResource.Cache
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\obj\Debug\QueensUniversityStudents.exe
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\obj\Debug\QueensUniversityStudents.pdb
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\obj\Debug\QueensUniversityStudents.StudentDetails.resources
+c:\users\annu\documents\visual studio 2013\Projects\QueensUniversityStudents\QueensUniversityStudents\obj\Debug\QueensUniversityStudents.StudentRegistration.resources
